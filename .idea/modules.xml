@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2023_job_search/.idea/2023_job_search.iml" filepath="$PROJECT_DIR$/../2023_job_search/.idea/2023_job_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/digital_freight_matcher_eng_lab_1.iml" filepath="$PROJECT_DIR$/.idea/digital_freight_matcher_eng_lab_1.iml" />
+    </modules>
+  </component>
+</project>

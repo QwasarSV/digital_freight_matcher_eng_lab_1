@@ -73,6 +73,13 @@ route: [
 
 ![routes](/assets/existing_routes.png)
 
+# API Key
+To query the Open Route Service, user will need to create an account and generate an API key:
+https://openrouteservice.org/dev/#/login
+
+This should be stored in a `.env` file in the root directory, as shown in `example.env`
+
+
 
 # References
 - <a href="https://convoy.com/digital-freight-network/">Digital Freight Network</a>
